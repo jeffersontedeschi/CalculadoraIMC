@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/07/28 18:42:39.000.677,=C:\Users\Tedeschi\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/07/28 19:23:45.000.728,C:\Users\Tedeschi\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Tedeschi\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/07/28 21:31:45.000.844,C:\Users\Tedeschi\Documents\Embarcadero\Studio\Projects\Project1.dproj=Z:\Delphi\CalculadoraIMC.git\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="" Android64="ce06160640020f0504"/>
+	</ActiveMobileDevice>
+</BorlandProject>
